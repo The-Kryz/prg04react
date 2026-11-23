@@ -1,0 +1,5 @@
+.admin-header { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding: 16px 24px; background: var(--primary-dark); color: #fff; }
+.admin-header h2 { margin: 0; }
+.admin-header nav ul { display: flex; list-style: none; margin: 0; padding: 0; }
+.admin-header nav a { color: #fff; text-decoration: none; }
+.admin-header nav a:hover { text-decoration: underline; }
